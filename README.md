@@ -12,7 +12,9 @@
 
 **📈 Key Insight**
 
-- 
-- YTD Profit
-- Profit Margin
-- YTD Quantidy
+- Sale By Category - Provides a breakdown of total sales based on product categories, highlighting which categories perform best.
+- YTD_Sale By Region - Shows year-to-date (YTD) sales across different regions, helping identify high and low-performing areas.
+- YTD_Sale By Sates - Displays total sales by state for the year, enabling regional performance comparison within a country.
+- YTD_Sale By Ship Tyep -Analyzes YTD sales based on shipping methods used, offering insights into customer delivery preferences and shipping performance.
+- Top 5 Product YTD_Sale - Lists the five best-selling products so far this year based on sales revenue or units sold.
+- Bottom 5 product YTD_Sale - Highlights the five least-selling products of the year, useful for inventory or promotional decision-making.
