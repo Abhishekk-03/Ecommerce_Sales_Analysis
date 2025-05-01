@@ -18,3 +18,17 @@
 - YTD_Sale By Ship Tyep -Analyzes YTD sales based on shipping methods used, offering insights into customer delivery preferences and shipping performance.
 - Top 5 Product YTD_Sale - Lists the five best-selling products so far this year based on sales revenue or units sold.
 - Bottom 5 product YTD_Sale - Highlights the five least-selling products of the year, useful for inventory or promotional decision-making.
+
+**🌐 Tools & Technologies**
+
+- DAX for inserting sticker & Measures for Calculation
+- Power Query for reduce data redundancy & Data Cleaninsing
+- Custom Visuals and Conditional Formatting
+
+  **🚀 Outcomes & Benefits
+Enhanced data-driven decision-making**
+
+- Top selling product indetified.
+- Shipping efficiency insights
+- Segment wise product trend analysis.
+- Regional performance analysis.
